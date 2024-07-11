@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+.container_botones{
+    text-align: center;
+}
+
+.b_primary{
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+    padding: 8px;
+    margin: 10px;
+}
+
+.b_secondary{
+    background-color: #2ecc71;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+    padding: 8px;
+    margin: 10px;
+}
+
+.exito{
+    background-color: #27ae60;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+    padding: 8px;
+    margin: 10px;
+}
+
+.danger{
+    background-color: #e74c3c;
+    color: #fff;
+    border-radius: 5px;
+    border-style: none;
+    padding: 8px;
+    margin: 10px;
+}
